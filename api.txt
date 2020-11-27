@@ -1,0 +1,8 @@
+username: admin
+password: restapi
+
+user_username: user
+password: restapiuser
+
+Root point: http://127.0.0.1:8000/
+search not implemented

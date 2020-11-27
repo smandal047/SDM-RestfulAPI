@@ -1,0 +1,135 @@
+[
+  {
+    "popularity": 83.0,
+    "director": "Victor Fleming",
+    "genre": [
+      "Adventure",
+      " Family",
+      " Fantasy",
+      " Musical"
+    ],
+    "imdb_score": 8.3,
+    "name": "The Wizard of Oz",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 88.0,
+    "director": "George Lucas",
+    "genre": [
+      "Action",
+      " Adventure",
+      " Fantasy",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.8,
+    "name": "Star Wars",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 66.0,
+    "director": "Giovanni Pastrone",
+    "genre": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "imdb_score": 6.6,
+    "name": "Cabiria",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 87.0,
+    "director": "Alfred Hitchcock",
+    "genre": [
+      "Horror",
+      " Mystery",
+      " Thriller"
+    ],
+    "imdb_score": 8.7,
+    "name": "Psycho",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 80.0,
+    "director": "Merian C. Cooper",
+    "genre": [
+      "Adventure",
+      " Fantasy",
+      " Horror"
+    ],
+    "imdb_score": 8.0,
+    "name": "King Kong",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 84.0,
+    "director": "Fritz Lang",
+    "genre": [
+      "Adventure",
+      " Drama",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.4,
+    "name": "Metropolis",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 86.0,
+    "director": "Marc Daniels",
+    "genre": [
+      "Adventure",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.6,
+    "name": "Star Trek",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 88.0,
+    "director": "Michael Curtiz",
+    "genre": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "imdb_score": 8.8,
+    "name": "Casablanca",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 79.0,
+    "director": "William Cottrell",
+    "genre": [
+      "Animation",
+      " Family",
+      " Fantasy",
+      " Musical",
+      " Romance"
+    ],
+    "imdb_score": 7.9,
+    "name": "Snow White and the Seven Dwarfs",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  },
+  {
+    "popularity": 84.0,
+    "director": "Stanley Kubrick",
+    "genre": [
+      "Adventure",
+      " Mystery",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.4,
+    "name": "2001 : A Space Odyssey",
+    "poster_id": 1,
+    "poster_url": "https://picsum.photos/id/1006/3000/2000"
+  }
+]
